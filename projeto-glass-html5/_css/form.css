@@ -5,7 +5,7 @@ form {
     margin: auto;
 }
 
-input, textarea {
+input, textarea, select {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-size: 13pt;
